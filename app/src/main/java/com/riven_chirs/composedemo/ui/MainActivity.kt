@@ -28,7 +28,8 @@ class MainActivity : AppCompatActivity() {
 
 @Composable
 fun Greeting(name: String) {
-    LoadImage()
+//    LoadImage()
+    Animate1()
 }
 
 @Preview(showBackground = true)
